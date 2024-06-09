@@ -5,8 +5,7 @@ from modelscope.hub.snapshot_download import snapshot_download
 from PIL import Image
 import warnings
 
-# 现在这里变成了C4这个分支上新增的内容了
-
+# 上面的都不要了，这是最终保留版
 
 
 def conduct_inference(text,image):
