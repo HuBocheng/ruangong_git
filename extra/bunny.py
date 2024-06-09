@@ -5,6 +5,7 @@ from modelscope.hub.snapshot_download import snapshot_download
 from PIL import Image
 import warnings
 
+# 现在这里变成B3这个分支上新增的内容了
 
 
 def conduct_inference(text,image):
